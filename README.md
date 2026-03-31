@@ -1,3 +1,2 @@
 # Banking Validation
-
-This repository contains validation files for banking.
+This repository contains validators for a comprehensive banking validation system.
