@@ -1,2 +1,3 @@
-# Banking-Validation
-Comprehensive JavaScript banking validation library
+# Banking Validation
+
+This repository contains validation files for banking.
